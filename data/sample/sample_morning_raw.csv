@@ -1,0 +1,181 @@
+ts,arm,model,ok,http_status,error,provider_reported,ttfb_ms,ttft_ms,total_ms,output_tokens,decode_tps,gen_id,gen_provider_name,gen_latency_ms,gen_generation_time_ms,is_byok,total_cost,warmup,synthetic
+2026-09-16T09:00:00+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,438.1,596.0,3484.9,235,81.0,gen-SYNTH47010557031,Amazon Bedrock,547,2889,False,0.004485,False,True
+2026-09-16T09:00:00+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,280.3,413.1,4023.7,254,70.1,gen-SYNTH23604083943,Anthropic,387,3611,False,0.00477,False,True
+2026-09-16T09:00:00+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,337.4,370.1,4251.3,240,61.6,,,,,False,,False,True
+2026-09-16T09:00:03+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,268.4,345.3,4602.0,249,58.3,gen-SYNTH22422444436,Amazon Bedrock,314,4257,False,0.004695,False,True
+2026-09-16T09:00:03+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,163.0,249.9,3340.6,249,80.2,gen-SYNTH61894908724,Anthropic,229,3091,False,0.004695,False,True
+2026-09-16T09:00:03+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,615.4,661.8,3654.2,215,71.5,,,,,False,,False,True
+2026-09-16T09:00:06+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,258.3,380.2,3909.2,216,60.9,gen-SYNTH20707650145,Amazon Bedrock,351,3529,False,0.0042,False,True
+2026-09-16T09:00:06+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,349.6,457.4,4030.8,242,67.4,gen-SYNTH86073183469,Anthropic,420,3573,False,0.00459,False,True
+2026-09-16T09:00:06+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,289.8,335.3,4074.0,254,67.7,,,,,False,,False,True
+2026-09-16T09:00:09+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Anthropic,207.5,327.9,3650.8,228,68.3,gen-SYNTH73549612256,Anthropic,304,3323,False,0.00438,False,True
+2026-09-16T09:00:09+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,331.4,454.1,3304.7,228,79.6,gen-SYNTH28751764450,Anthropic,410,2851,False,0.00438,False,True
+2026-09-16T09:00:09+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,431.8,486.9,4087.1,216,59.7,,,,,False,,False,True
+2026-09-16T09:00:12+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Anthropic,133.2,208.2,4472.0,248,57.9,gen-SYNTH44996779812,Anthropic,197,4264,False,0.00468,False,True
+2026-09-16T09:00:12+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,347.7,509.2,4151.6,245,67.0,gen-SYNTH88166483690,Anthropic,460,3642,False,0.004635,False,True
+2026-09-16T09:00:12+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,298.0,350.3,3492.2,221,70.0,,,,,False,,False,True
+2026-09-16T09:00:16+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,663.5,864.4,4491.3,215,59.0,gen-SYNTH81327614152,Amazon Bedrock,784,3627,False,0.004185,False,True
+2026-09-16T09:00:16+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,311.8,439.7,3899.1,232,66.8,gen-SYNTH83402725345,Anthropic,406,3459,False,0.00444,False,True
+2026-09-16T09:00:16+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,305.9,355.2,4548.8,256,60.8,,,,,False,,False,True
+2026-09-16T09:00:19+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Anthropic,251.9,351.0,4464.7,254,61.5,gen-SYNTH85187527662,Anthropic,317,4114,False,0.00477,False,True
+2026-09-16T09:00:19+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,234.6,350.8,4359.3,240,59.6,gen-SYNTH51633295958,Anthropic,319,4009,False,0.00456,False,True
+2026-09-16T09:00:19+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,402.9,449.0,3877.4,220,63.9,,,,,False,,False,True
+2026-09-16T09:00:22+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Anthropic,321.3,416.4,3558.4,219,69.4,gen-SYNTH95744964922,Anthropic,391,3142,False,0.004245,False,True
+2026-09-16T09:00:22+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,102.1,163.2,4101.8,250,63.2,gen-SYNTH73466395524,Anthropic,153,3939,False,0.00471,False,True
+2026-09-16T09:00:22+00:00,direct,claude-sonnet-4-5,False,429,rate limit exceeded,anthropic-direct,,,,,,,,,,False,,False,True
+2026-09-16T09:00:25+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Google Vertex,361.3,521.7,4315.5,216,56.7,gen-SYNTH82933175547,Google Vertex,482,3794,False,0.0042,False,True
+2026-09-16T09:00:25+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,186.1,262.7,3790.5,230,64.9,gen-SYNTH27927302015,Anthropic,237,3528,False,0.00441,False,True
+2026-09-16T09:00:25+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,296.6,322.2,3410.8,222,71.6,,,,,False,,False,True
+2026-09-16T09:00:28+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Google Vertex,310.5,484.2,3921.5,220,63.7,gen-SYNTH97485075102,Google Vertex,438,3437,False,0.00426,False,True
+2026-09-16T09:00:28+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,229.7,311.5,3616.4,252,75.9,gen-SYNTH78326114219,Anthropic,289,3305,False,0.00474,False,True
+2026-09-16T09:00:28+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,328.0,352.9,4612.4,247,57.8,,,,,False,,False,True
+2026-09-16T09:00:32+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Google Vertex,268.4,389.5,3947.6,237,66.3,gen-SYNTH84920628513,Google Vertex,365,3558,False,0.004515,False,True
+2026-09-16T09:00:32+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,330.5,426.7,3642.4,228,70.6,gen-SYNTH96436668444,Anthropic,400,3216,False,0.00438,False,True
+2026-09-16T09:00:32+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,358.1,420.5,4686.5,255,59.5,,,,,False,,False,True
+2026-09-16T09:00:35+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,393.4,525.6,3736.7,225,69.8,gen-SYNTH57922258647,Amazon Bedrock,477,3211,False,0.004335,False,True
+2026-09-16T09:00:35+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,350.2,534.8,3457.4,226,77.0,gen-SYNTH85917306043,Anthropic,501,2923,False,0.00435,False,True
+2026-09-16T09:00:35+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,198.2,235.0,3459.6,236,72.9,,,,,False,,False,True
+2026-09-16T09:00:38+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,421.6,541.9,4708.2,219,52.3,gen-SYNTH39979985536,Amazon Bedrock,489,4166,False,0.004245,False,True
+2026-09-16T09:00:38+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,309.8,453.2,3319.9,230,79.9,gen-SYNTH24183491666,Anthropic,416,2867,False,0.00441,False,True
+2026-09-16T09:00:38+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,343.4,385.7,3252.9,229,79.5,,,,,False,,False,True
+2026-09-16T09:00:41+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,252.1,363.4,4713.6,214,49.0,gen-SYNTH90813295257,Amazon Bedrock,335,4350,False,0.00417,False,True
+2026-09-16T09:00:41+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,262.5,390.6,3764.8,216,63.7,gen-SYNTH93830778901,Anthropic,353,3374,False,0.0042,False,True
+2026-09-16T09:00:41+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,344.7,402.6,4166.4,230,60.8,,,,,False,,False,True
+2026-09-16T09:00:44+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,214.1,334.7,4014.1,224,60.6,gen-SYNTH37009612664,Amazon Bedrock,303,3679,False,0.00432,False,True
+2026-09-16T09:00:44+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,308.6,412.8,3778.8,233,68.9,gen-SYNTH83071091854,Anthropic,385,3366,False,0.004455,False,True
+2026-09-16T09:00:44+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,458.0,510.3,3815.1,242,72.9,,,,,False,,False,True
+2026-09-16T09:00:48+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Anthropic,348.2,461.0,3923.1,217,62.4,gen-SYNTH74136991091,Anthropic,430,3462,False,0.004215,False,True
+2026-09-16T09:00:48+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,175.7,264.6,3912.2,233,63.6,gen-SYNTH55250107726,Anthropic,248,3648,False,0.004455,False,True
+2026-09-16T09:00:48+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,421.1,458.8,3539.0,222,71.7,,,,,False,,False,True
+2026-09-16T09:00:51+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Google Vertex,330.3,476.6,4249.5,243,64.1,gen-SYNTH87035988580,Google Vertex,448,3773,False,0.004605,False,True
+2026-09-16T09:00:51+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,362.6,516.3,3968.8,214,61.7,gen-SYNTH31968846300,Anthropic,477,3453,False,0.00417,False,True
+2026-09-16T09:00:51+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,1307.9,1431.6,4749.4,226,67.8,,,,,False,,False,True
+2026-09-16T09:00:54+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Anthropic,230.7,349.3,3521.6,218,68.4,gen-SYNTH15486569615,Anthropic,318,3172,False,0.00423,False,True
+2026-09-16T09:00:54+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,315.8,424.8,4264.9,230,59.6,gen-SYNTH32395378290,Anthropic,398,3840,False,0.00441,False,True
+2026-09-16T09:00:54+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,370.9,401.8,5021.0,241,52.0,,,,,False,,False,True
+2026-09-16T09:00:57+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,223.6,326.4,4083.4,246,65.2,gen-SYNTH65857635502,Amazon Bedrock,307,3757,False,0.00465,False,True
+2026-09-16T09:00:57+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,274.8,375.2,3885.1,223,63.2,gen-SYNTH71925803692,Anthropic,351,3510,False,0.004305,False,True
+2026-09-16T09:00:57+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,282.7,315.3,3808.7,236,67.3,,,,,False,,False,True
+2026-09-16T09:01:00+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Google Vertex,228.4,359.9,4040.3,221,59.8,gen-SYNTH32018868642,Google Vertex,338,3680,False,0.004275,False,True
+2026-09-16T09:01:00+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,384.7,551.0,3238.3,227,84.1,gen-SYNTH63764892473,Anthropic,503,2687,False,0.004365,False,True
+2026-09-16T09:01:00+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,331.8,366.0,4210.2,240,62.2,,,,,False,,False,True
+2026-09-16T09:01:04+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,274.2,429.6,4158.2,223,59.5,gen-SYNTH69067475807,Amazon Bedrock,392,3729,False,0.004305,False,True
+2026-09-16T09:01:04+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,256.0,347.3,3733.9,243,71.5,gen-SYNTH57752708267,Anthropic,325,3387,False,0.004605,False,True
+2026-09-16T09:01:04+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,305.5,355.7,3912.4,239,66.9,,,,,False,,False,True
+2026-09-16T09:01:07+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Google Vertex,256.5,348.3,3569.9,219,67.7,gen-SYNTH33897026387,Google Vertex,329,3222,False,0.004245,False,True
+2026-09-16T09:01:07+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,477.0,622.4,3535.2,229,78.3,gen-SYNTH38097375690,Anthropic,565,2913,False,0.004395,False,True
+2026-09-16T09:01:07+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,382.7,427.6,3996.5,237,66.1,,,,,False,,False,True
+2026-09-16T09:01:10+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,563.3,801.8,5114.7,249,57.5,gen-SYNTH55775861447,Amazon Bedrock,737,4313,False,0.004695,False,True
+2026-09-16T09:01:10+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,415.0,572.5,4217.6,241,65.8,gen-SYNTH98760651439,Anthropic,519,3645,False,0.004575,False,True
+2026-09-16T09:01:10+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,280.4,303.8,3449.9,250,79.1,,,,,False,,False,True
+2026-09-16T09:01:13+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Anthropic,149.9,213.3,3598.9,223,65.6,gen-SYNTH59900411309,Anthropic,193,3386,False,0.004305,False,True
+2026-09-16T09:01:13+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,487.9,717.1,4005.7,230,69.6,gen-SYNTH23432220731,Anthropic,652,3289,False,0.00441,False,True
+2026-09-16T09:01:13+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,532.3,604.3,4335.0,222,59.2,,,,,False,,False,True
+2026-09-16T09:01:16+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Anthropic,302.0,458.3,4814.5,226,51.7,gen-SYNTH18384062970,Anthropic,417,4356,False,0.00435,False,True
+2026-09-16T09:01:16+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,309.5,437.6,3764.9,225,67.3,gen-SYNTH29595423069,Anthropic,406,3327,False,0.004335,False,True
+2026-09-16T09:01:16+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,435.1,489.1,3899.8,225,65.7,,,,,False,,False,True
+2026-09-16T09:01:20+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Google Vertex,486.2,651.9,4019.7,216,63.8,gen-SYNTH24533740377,Google Vertex,606,3368,False,0.0042,False,True
+2026-09-16T09:01:20+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,282.6,454.4,3486.5,225,73.9,gen-SYNTH90331441735,Anthropic,414,3032,False,0.004335,False,True
+2026-09-16T09:01:20+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,397.7,455.8,3745.6,216,65.4,,,,,False,,False,True
+2026-09-16T09:01:23+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,194.5,300.3,3599.5,229,69.1,gen-SYNTH90408163797,Amazon Bedrock,274,3299,False,0.004395,False,True
+2026-09-16T09:01:23+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,225.4,329.9,4060.4,236,63.0,gen-SYNTH77448451114,Anthropic,297,3731,False,0.0045,False,True
+2026-09-16T09:01:23+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,361.4,414.6,3756.6,243,72.4,,,,,False,,False,True
+2026-09-16T09:01:26+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,369.8,543.8,4664.9,254,61.4,gen-SYNTH50610096720,Amazon Bedrock,503,4121,False,0.00477,False,True
+2026-09-16T09:01:26+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,289.3,408.3,4578.5,251,59.9,gen-SYNTH99382041590,Anthropic,382,4170,False,0.004725,False,True
+2026-09-16T09:01:26+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,291.5,331.3,4505.5,255,60.8,,,,,False,,False,True
+2026-09-16T09:01:29+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Anthropic,261.0,403.4,3618.5,219,67.8,gen-SYNTH74291717824,Anthropic,380,3215,False,0.004245,False,True
+2026-09-16T09:01:29+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,302.0,392.3,3526.7,226,71.8,gen-SYNTH49531153879,Anthropic,357,3134,False,0.00435,False,True
+2026-09-16T09:01:29+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,338.4,373.3,3548.0,215,67.4,,,,,False,,False,True
+2026-09-16T09:01:32+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Anthropic,296.2,466.4,3995.9,243,68.6,gen-SYNTH34123983422,Anthropic,429,3529,False,0.004605,False,True
+2026-09-16T09:01:32+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,320.0,426.4,4172.9,246,65.4,gen-SYNTH77133843229,Anthropic,397,3746,False,0.00465,False,True
+2026-09-16T09:01:32+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,510.8,593.1,4593.5,236,58.7,,,,,False,,False,True
+2026-09-16T09:01:36+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,290.7,399.1,3563.3,226,71.1,gen-SYNTH30325749373,Amazon Bedrock,373,3164,False,0.00435,False,True
+2026-09-16T09:01:36+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,362.4,576.8,4155.8,217,60.4,gen-SYNTH49452231873,Anthropic,540,3579,False,0.004215,False,True
+2026-09-16T09:01:36+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,584.4,675.5,3822.0,229,72.5,,,,,False,,False,True
+2026-09-16T09:01:39+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Google Vertex,447.0,621.9,4188.6,246,68.7,gen-SYNTH99569777839,Google Vertex,564,3567,False,0.00465,False,True
+2026-09-16T09:01:39+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,371.8,503.5,4016.0,250,70.9,gen-SYNTH42143471961,Anthropic,457,3512,False,0.00471,False,True
+2026-09-16T09:01:39+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,298.5,328.7,3985.3,252,68.6,,,,,False,,False,True
+2026-09-16T09:01:42+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Anthropic,191.3,305.4,4753.8,254,56.9,gen-SYNTH75060299321,Anthropic,278,4448,False,0.00477,False,True
+2026-09-16T09:01:42+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,232.5,361.1,3585.2,223,68.9,gen-SYNTH25476550120,Anthropic,329,3224,False,0.004305,False,True
+2026-09-16T09:01:42+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,355.2,415.0,3906.6,243,69.3,,,,,False,,False,True
+2026-09-16T09:01:45+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Anthropic,227.8,352.9,4063.5,227,60.9,gen-SYNTH21670158412,Anthropic,329,3711,False,0.004365,False,True
+2026-09-16T09:01:45+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,184.4,241.9,3468.1,221,68.2,gen-SYNTH40486738480,Anthropic,225,3226,False,0.004275,False,True
+2026-09-16T09:01:45+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,251.3,292.8,3417.5,220,70.1,,,,,False,,False,True
+2026-09-16T09:01:48+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Google Vertex,290.8,400.3,4338.1,252,63.7,gen-SYNTH99372233824,Google Vertex,365,3938,False,0.00474,False,True
+2026-09-16T09:01:48+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,220.9,285.7,3715.4,237,68.8,gen-SYNTH49750384302,Anthropic,261,3430,False,0.004515,False,True
+2026-09-16T09:01:48+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,269.5,314.8,4196.9,228,58.5,,,,,False,,False,True
+2026-09-16T09:01:52+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1133.1,1685.9,4657.4,225,75.4,gen-SYNTH88419988725,Amazon Bedrock,1599,2971,False,0.004335,False,True
+2026-09-16T09:01:52+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,307.9,435.7,3906.1,236,67.7,gen-SYNTH90312573562,Anthropic,411,3470,False,0.0045,False,True
+2026-09-16T09:01:52+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,514.1,580.9,3739.6,219,69.0,,,,,False,,False,True
+2026-09-16T09:01:55+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Google Vertex,338.6,456.7,3604.2,248,78.5,gen-SYNTH74547857369,Google Vertex,434,3148,False,0.00468,False,True
+2026-09-16T09:01:55+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,330.8,435.9,3467.9,222,72.9,gen-SYNTH34109574864,Anthropic,410,3032,False,0.00429,False,True
+2026-09-16T09:01:55+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,366.7,411.9,3837.8,233,67.7,,,,,False,,False,True
+2026-09-16T09:01:58+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,324.9,476.5,3521.5,223,72.9,gen-SYNTH61861589063,Amazon Bedrock,440,3045,False,0.004305,False,True
+2026-09-16T09:01:58+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,191.0,272.3,3780.6,238,67.6,gen-SYNTH14890907437,Anthropic,256,3508,False,0.00453,False,True
+2026-09-16T09:01:58+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,306.9,363.6,4039.9,221,59.8,,,,,False,,False,True
+2026-09-16T09:02:01+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Anthropic,425.7,628.1,4199.5,227,63.3,gen-SYNTH91546494078,Anthropic,587,3571,False,0.004365,False,True
+2026-09-16T09:02:01+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,202.0,307.9,3920.4,229,63.1,gen-SYNTH67238766635,Anthropic,280,3613,False,0.004395,False,True
+2026-09-16T09:02:01+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,273.3,323.9,4802.2,252,56.0,,,,,False,,False,True
+2026-09-16T09:02:04+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Anthropic,366.7,548.6,4046.3,247,70.3,gen-SYNTH50597356427,Anthropic,498,3498,False,0.004665,False,True
+2026-09-16T09:02:04+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,227.2,327.1,3390.7,221,71.8,gen-SYNTH34615508417,Anthropic,295,3064,False,0.004275,False,True
+2026-09-16T09:02:04+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,206.5,244.3,4209.4,243,61.0,,,,,False,,False,True
+2026-09-16T09:02:08+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Anthropic,315.0,410.9,3339.4,220,74.8,gen-SYNTH55560481185,Anthropic,375,2929,False,0.00426,False,True
+2026-09-16T09:02:08+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,410.4,576.1,4024.5,250,72.2,gen-SYNTH24343626447,Anthropic,525,3448,False,0.00471,False,True
+2026-09-16T09:02:08+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,502.9,555.7,4317.6,250,66.2,,,,,False,,False,True
+2026-09-16T09:02:11+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,206.5,299.2,3751.2,223,64.3,gen-SYNTH32858784008,Amazon Bedrock,270,3452,False,0.004305,False,True
+2026-09-16T09:02:11+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,451.3,628.4,4275.9,242,66.1,gen-SYNTH29827575395,Anthropic,572,3647,False,0.00459,False,True
+2026-09-16T09:02:11+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,223.6,254.8,3706.0,236,68.1,,,,,False,,False,True
+2026-09-16T09:02:14+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,581.1,745.7,4741.7,243,60.6,gen-SYNTH71926725499,Amazon Bedrock,682,3996,False,0.004605,False,True
+2026-09-16T09:02:14+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,377.2,498.7,4416.1,239,60.8,gen-SYNTH91570146594,Anthropic,471,3917,False,0.004545,False,True
+2026-09-16T09:02:14+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,330.0,360.6,4524.5,253,60.5,,,,,False,,False,True
+2026-09-16T09:02:17+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Google Vertex,328.9,449.6,4150.1,253,68.1,gen-SYNTH67066811391,Google Vertex,423,3700,False,0.004755,False,True
+2026-09-16T09:02:17+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,320.8,489.3,4452.9,234,58.8,gen-SYNTH79339664925,Anthropic,449,3964,False,0.00447,False,True
+2026-09-16T09:02:17+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,184.8,214.6,3783.6,242,67.5,,,,,False,,False,True
+2026-09-16T09:02:20+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,757.3,1139.7,4722.6,241,67.0,gen-SYNTH66782132227,Amazon Bedrock,1028,3583,False,0.004575,False,True
+2026-09-16T09:02:20+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,438.1,562.7,3886.7,215,64.4,gen-SYNTH74433951964,Anthropic,530,3324,False,0.004185,False,True
+2026-09-16T09:02:20+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,432.0,499.2,3540.8,216,70.7,,,,,False,,False,True
+2026-09-16T09:02:24+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Google Vertex,236.5,325.2,4278.7,245,61.7,gen-SYNTH88972223145,Google Vertex,303,3954,False,0.004635,False,True
+2026-09-16T09:02:24+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,213.9,338.4,4351.5,255,63.3,gen-SYNTH86845159118,Anthropic,317,4013,False,0.004785,False,True
+2026-09-16T09:02:24+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,438.0,502.1,4365.5,243,62.6,,,,,False,,False,True
+2026-09-16T09:02:27+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,372.4,529.9,3676.0,214,67.7,gen-SYNTH65285895745,Amazon Bedrock,494,3146,False,0.00417,False,True
+2026-09-16T09:02:27+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,206.1,285.7,4232.2,219,55.2,gen-SYNTH18363332214,Anthropic,270,3946,False,0.004245,False,True
+2026-09-16T09:02:27+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,235.5,274.3,3659.8,222,65.3,,,,,False,,False,True
+2026-09-16T09:02:30+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Anthropic,383.6,496.7,4570.7,253,61.9,gen-SYNTH34019097670,Anthropic,471,4074,False,0.004755,False,True
+2026-09-16T09:02:30+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,229.7,335.3,4125.7,241,63.3,gen-SYNTH26560378207,Anthropic,306,3790,False,0.004575,False,True
+2026-09-16T09:02:30+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,335.6,390.9,4512.2,246,59.4,,,,,False,,False,True
+2026-09-16T09:02:33+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Google Vertex,323.4,460.0,4056.5,244,67.6,gen-SYNTH89836498875,Google Vertex,421,3596,False,0.00462,False,True
+2026-09-16T09:02:33+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,441.2,571.5,4271.1,230,61.9,gen-SYNTH61811462746,Anthropic,534,3700,False,0.00441,False,True
+2026-09-16T09:02:33+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,176.6,209.1,3880.4,243,65.9,,,,,False,,False,True
+2026-09-16T09:02:36+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Anthropic,273.3,352.8,3693.9,233,69.4,gen-SYNTH61744264670,Anthropic,326,3341,False,0.004455,False,True
+2026-09-16T09:02:36+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,287.4,441.7,4342.3,248,63.3,gen-SYNTH55809524845,Anthropic,400,3901,False,0.00468,False,True
+2026-09-16T09:02:36+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,295.4,349.5,3425.8,222,71.8,,,,,False,,False,True
+2026-09-16T09:02:40+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Anthropic,453.1,608.3,4341.9,249,66.4,gen-SYNTH63336168451,Anthropic,569,3734,False,0.004695,False,True
+2026-09-16T09:02:40+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,179.1,245.1,4294.0,232,57.1,gen-SYNTH94592220863,Anthropic,229,4049,False,0.00444,False,True
+2026-09-16T09:02:40+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,315.9,358.1,4060.5,226,60.8,,,,,False,,False,True
+2026-09-16T09:02:43+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Google Vertex,298.7,432.7,4428.7,247,61.6,gen-SYNTH57642790693,Google Vertex,405,3996,False,0.004665,False,True
+2026-09-16T09:02:43+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,265.4,404.6,3442.7,214,70.1,gen-SYNTH65653619119,Anthropic,372,3038,False,0.00417,False,True
+2026-09-16T09:02:43+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,195.3,223.9,3817.0,235,65.1,,,,,False,,False,True
+2026-09-16T09:02:46+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Anthropic,298.9,454.9,3594.2,228,72.3,gen-SYNTH31125660297,Anthropic,414,3139,False,0.00438,False,True
+2026-09-16T09:02:46+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,284.2,440.0,4089.9,220,60.0,gen-SYNTH66709135196,Anthropic,404,3650,False,0.00426,False,True
+2026-09-16T09:02:46+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,254.0,302.1,4105.4,237,62.1,,,,,False,,False,True
+2026-09-16T09:02:49+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,358.3,569.3,4385.9,250,65.2,gen-SYNTH25107157782,Amazon Bedrock,539,3817,False,0.00471,False,True
+2026-09-16T09:02:49+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,199.9,268.4,3576.0,223,67.1,gen-SYNTH58643060425,Anthropic,252,3308,False,0.004305,False,True
+2026-09-16T09:02:49+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,355.6,403.2,3727.3,219,65.6,,,,,False,,False,True
+2026-09-16T09:02:52+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,284.1,445.9,4157.0,218,58.5,gen-SYNTH43034084351,Amazon Bedrock,404,3711,False,0.00423,False,True
+2026-09-16T09:02:52+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,431.5,601.8,3617.8,218,71.9,gen-SYNTH79402100343,Anthropic,554,3016,False,0.00423,False,True
+2026-09-16T09:02:52+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,334.7,373.8,3988.0,226,62.3,,,,,False,,False,True
+2026-09-16T09:02:56+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,300.5,392.4,5790.3,250,46.1,gen-SYNTH40406526370,Amazon Bedrock,371,5398,False,0.00471,False,True
+2026-09-16T09:02:56+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,323.1,463.6,4022.1,234,65.5,gen-SYNTH87601763357,Anthropic,428,3558,False,0.00447,False,True
+2026-09-16T09:02:56+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,507.5,579.3,4202.2,220,60.4,,,,,False,,False,True
+2026-09-16T09:02:59+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,348.5,517.6,3893.3,225,66.4,gen-SYNTH38742662872,Amazon Bedrock,485,3376,False,0.004335,False,True
+2026-09-16T09:02:59+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,314.6,436.6,4528.5,239,58.2,gen-SYNTH92216056484,Anthropic,393,4092,False,0.004545,False,True
+2026-09-16T09:02:59+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,311.9,360.2,3605.4,224,68.7,,,,,False,,False,True
+2026-09-16T09:03:02+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,324.3,488.9,4434.6,251,63.4,gen-SYNTH85322313955,Amazon Bedrock,448,3946,False,0.004725,False,True
+2026-09-16T09:03:02+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,190.3,291.4,4133.8,255,66.1,gen-SYNTH61399895857,Anthropic,276,3842,False,0.004785,False,True
+2026-09-16T09:03:02+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,265.1,311.0,3881.0,224,62.5,,,,,False,,False,True
+2026-09-16T09:03:05+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Google Vertex,236.5,337.7,3847.8,226,64.1,gen-SYNTH15188017610,Google Vertex,314,3510,False,0.00435,False,True
+2026-09-16T09:03:05+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,452.9,617.8,5061.7,237,53.1,gen-SYNTH96619937937,Anthropic,585,4444,False,0.004515,False,True
+2026-09-16T09:03:05+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,418.9,457.2,3712.2,219,67.0,,,,,False,,False,True
+2026-09-16T09:03:08+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Anthropic,286.9,423.1,4105.3,224,60.6,gen-SYNTH34340026833,Anthropic,393,3682,False,0.00432,False,True
+2026-09-16T09:03:08+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,250.4,323.0,3538.5,226,70.0,gen-SYNTH69825306171,Anthropic,292,3215,False,0.00435,False,True
+2026-09-16T09:03:08+00:00,direct,claude-sonnet-4-5,True,200,,anthropic-direct,413.1,480.8,4050.5,254,70.9,,,,,False,,False,True
