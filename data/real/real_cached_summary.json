@@ -1,0 +1,49 @@
+{
+  "run_at": "2026-09-21T14:36:43+00:00",
+  "config": {
+    "or_model": "anthropic/claude-sonnet-4.5",
+    "direct_model": null,
+    "pin": "anthropic",
+    "n_per_arm": 60,
+    "warmup": 3,
+    "concurrency": 4,
+    "max_tokens": 256,
+    "cache_allowed": true
+  },
+  "arms": [
+    {
+      "arm": "or_default",
+      "n": 60,
+      "errors": 0,
+      "error_rate_pct": 0.0,
+      "ttfb_p50": 2180.6,
+      "ttft_p50": 2180.6,
+      "ttft_p90": 3053.6,
+      "ttft_p95": 4049.3,
+      "ttft_p99": 5318.4,
+      "total_p50": 3933.7,
+      "total_p95": 6331.3,
+      "decode_tps_median": 45.5,
+      "providers": {
+        "Amazon Bedrock": 60
+      }
+    },
+    {
+      "arm": "or_pinned",
+      "n": 60,
+      "errors": 0,
+      "error_rate_pct": 0.0,
+      "ttfb_p50": 1737.3,
+      "ttft_p50": 1737.3,
+      "ttft_p90": 2563.0,
+      "ttft_p95": 3450.8,
+      "ttft_p99": 4082.3,
+      "total_p50": 3780.7,
+      "total_p95": 5835.2,
+      "decode_tps_median": 39.5,
+      "providers": {
+        "Anthropic": 60
+      }
+    }
+  ]
+}

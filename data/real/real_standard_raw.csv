@@ -1,0 +1,127 @@
+ts,arm,model,ok,http_status,error,provider_reported,ttfb_ms,ttft_ms,total_ms,output_tokens,decode_tps,gen_id,gen_provider_name,gen_latency_ms,gen_generation_time_ms,is_byok,total_cost,warmup
+2026-09-21T14:11:23+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,2609.8,2609.8,4709.3,101,47.6,gen-1789999886-cVWKn9STylCMEoeGJ0fh,,,,,,True
+2026-09-21T14:11:23+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,2247.5,2247.6,4502.5,93,40.8,gen-1789999886-oxRWRVSHxPjccQUlOZVB,,,,,,True
+2026-09-21T14:11:23+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,2343.4,2343.4,4820.6,115,46.0,gen-1789999886-QgFzN5PKDldYziYPPbl6,Amazon Bedrock,1221,3686,False,0.001899,True
+2026-09-21T14:11:23+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,2195.2,2195.3,5098.6,121,41.3,gen-1789999886-Ml9vhqevJGGNCV9tqfBT,Anthropic,1073,3967,False,0.001995,True
+2026-09-21T14:11:35+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,2851.0,2851.0,4533.1,72,42.2,gen-1789999898-kibUe8EkVS9S7TXSnmJq,Amazon Bedrock,1605,3262,False,0.001248,True
+2026-09-21T14:11:36+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1956.6,1956.6,4524.4,95,36.6,gen-1789999899-D9FeBG1B5OWyR7U90SWp,Anthropic,1126,3680,False,0.00159,True
+2026-09-21T14:11:36+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,2133.2,2133.2,4835.0,102,37.4,gen-1789999899-lPCRUk6dWlRDuvzl6ozq,Amazon Bedrock,1322,3799,False,0.001701,False
+2026-09-21T14:11:37+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1965.7,1965.9,4278.1,88,37.6,gen-1789999900-zmnVFPIKnKrRxmtJyrEG,Anthropic,1030,3326,False,0.001497,False
+2026-09-21T14:11:48+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1351.1,1351.2,3285.6,84,42.9,gen-1789999911-kQZ0Dt8TzaXth1NE0MA2,Amazon Bedrock,1189,3148,False,0.001446,False
+2026-09-21T14:11:49+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1183.4,1183.4,3341.5,84,38.5,gen-1789999912-BuH8Yc61VdkCQyTuUCOs,Anthropic,892,3013,False,0.00144,False
+2026-09-21T14:11:49+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1670.7,1670.8,4182.8,119,47.0,gen-1789999912-9DpMQnOMfF5qB2l7IM0H,Amazon Bedrock,1360,3867,False,0.001959,False
+2026-09-21T14:11:50+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1225.6,1225.6,4152.3,121,41.0,gen-1789999913-DUshxW2tG9BSCHCnRg4t,Anthropic,1036,3931,False,0.001995,False
+2026-09-21T14:11:59+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,2233.0,2233.0,3531.5,65,49.3,gen-1789999922-shE2bUtgc3bfRdFnSZcV,Amazon Bedrock,1392,2798,False,0.001146,False
+2026-09-21T14:11:59+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1783.4,1783.4,3716.9,77,39.3,gen-1789999922-tHKg1PuWenfjCSNP7lsx,Anthropic,767,2854,False,0.001326,False
+2026-09-21T14:12:00+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,2167.0,2167.0,4924.1,94,33.7,gen-1789999923-PIN8f7ej3KWsMhdEWgj8,Amazon Bedrock,1463,3483,False,0.001581,False
+2026-09-21T14:12:01+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,2432.9,2586.8,7025.3,253,56.8,gen-1789999924-83nm99xdBi3af4HbWzAQ,Anthropic,1666,6410,False,0.003966,False
+2026-09-21T14:12:12+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1967.8,1967.9,3870.9,86,44.7,gen-1789999935-MkVpiXUjkbSLibK3LbU4,,,,,,False
+2026-09-21T14:12:13+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1475.8,1475.8,3671.8,84,37.8,gen-1789999936-i60R7GRb9Qu2eKsyGsfg,,,,,,False
+2026-09-21T14:12:13+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,2123.2,2123.3,4055.5,95,48.6,gen-1789999936-QqjTs8yccUCyciDi7NBN,,,,,,False
+2026-09-21T14:12:18+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1097.3,1097.3,3587.4,103,41.0,gen-1789999941-Xb5gZ2gYvozXGFcAkFS0,Anthropic,970,3456,False,0.001725,False
+2026-09-21T14:12:23+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,2148.6,2148.7,3743.4,75,46.4,gen-1789999946-1lWlJeKWZPbunEMMNvgM,Amazon Bedrock,1585,3125,False,0.001293,False
+2026-09-21T14:12:25+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1473.8,1473.8,3269.5,69,37.9,gen-1789999947-etuR9pWu6NV3sWiv6siU,Anthropic,972,2558,False,0.001197,False
+2026-09-21T14:12:25+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,2153.3,2153.3,4046.6,81,42.3,gen-1789999948-XOoYDIspfiiZCTAkIB9S,Amazon Bedrock,1511,3278,False,0.001386,False
+2026-09-21T14:12:32+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,3125.3,3125.3,5225.9,81,38.1,gen-1789999956-h1BrfGYjkkeoxhoxwDkh,Anthropic,957,2904,False,0.001386,False
+2026-09-21T14:12:38+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,3792.2,3792.2,5966.3,85,38.6,gen-1789999963-m3aannZZBMknLuD8Mau2,Amazon Bedrock,1372,3620,False,0.001449,False
+2026-09-21T14:12:38+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1887.0,1887.1,3554.0,84,49.8,gen-1789999961-c5ZQ3g5Dz1X41o3nkh30,Anthropic,1227,2881,False,0.001443,False
+2026-09-21T14:12:40+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,2114.0,2114.0,4294.7,96,43.6,gen-1789999963-qe8ZY4JrG7uwvLBVkUaV,Amazon Bedrock,1437,3529,False,0.001623,False
+2026-09-21T14:12:49+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1746.0,1746.0,4688.0,96,32.3,gen-1789999972-wjFDddBCbpVBvgEIEqbi,Anthropic,993,3221,False,0.00162,False
+2026-09-21T14:12:51+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,2174.0,2174.0,3798.0,78,47.4,gen-1789999974-t7T2kmlxNsuW2yUB6V1y,Amazon Bedrock,1282,2897,False,0.001338,False
+2026-09-21T14:12:52+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1830.2,1830.2,4933.7,75,23.8,gen-1789999975-KjNgw4QFX1pWkzyHrrDa,Anthropic,887,2837,False,0.001287,False
+2026-09-21T14:12:53+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,2008.1,2008.2,4326.4,81,34.5,gen-1789999976-4F5a4qwMWXMGgMxIZhws,Amazon Bedrock,1155,2898,False,0.00138,False
+2026-09-21T14:13:02+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1806.0,1806.1,3912.3,74,34.7,gen-1789999985-1Q0jvO552f1qHCjchpEb,Anthropic,921,2810,False,0.001284,False
+2026-09-21T14:13:03+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,2733.9,2733.9,4234.2,84,55.3,gen-1789999986-29IPDZavPa2mmC3QldYk,Amazon Bedrock,1629,3472,False,0.001446,False
+2026-09-21T14:13:07+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,3152.5,3152.6,5555.4,84,34.5,gen-1789999992-Ovua7C53Fex2NxhzTR2Z,Anthropic,1091,3202,False,0.001446,False
+2026-09-21T14:13:13+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,4232.2,4232.2,4640.1,108,262.3,gen-1789999996-KuvYmwvezyBfVZkApC7R,Amazon Bedrock,2352,3615,False,0.0018,False
+2026-09-21T14:13:17+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,4456.2,4456.2,6873.9,114,46.7,gen-1790000003-eSKzrfLGJp5nKbqR7uje,Anthropic,995,3653,False,0.001887,False
+2026-09-21T14:13:20+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1961.7,1961.8,3621.5,78,46.4,gen-1790000003-1ZQQzhnhN7fHOniPpdN1,Amazon Bedrock,1522,3164,False,0.001338,False
+2026-09-21T14:13:27+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1526.3,1526.3,4105.8,72,27.5,gen-1790000010-o1uZa8VQbpn18dQGkMc9,Anthropic,742,2981,False,0.001251,False
+2026-09-21T14:13:28+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1895.3,1895.3,4280.1,89,36.9,gen-1790000011-Xoz9h5oyKU6rGLS3aVT5,Amazon Bedrock,1248,3470,False,0.001503,False
+2026-09-21T14:13:37+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1688.3,1688.3,3935.2,81,35.6,gen-1790000020-dTzE6LakNi0DE2WS7fhP,Anthropic,1022,3084,False,0.001386,False
+2026-09-21T14:13:39+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,2252.0,2252.0,3979.8,84,48.0,gen-1790000022-klCxLswGEU6e2jfD2ugN,Amazon Bedrock,1327,3119,False,0.001443,False
+2026-09-21T14:13:40+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1728.8,1728.8,3417.0,78,45.6,gen-1790000023-ADGGzSG2TD1cKfmWwbw4,Anthropic,826,2674,False,0.001356,False
+2026-09-21T14:13:42+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,2279.8,2279.8,6337.5,121,29.6,gen-1790000025-PA8A56kN5rcigiVB8Sh7,Amazon Bedrock,1581,4237,False,0.001992,False
+2026-09-21T14:13:51+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,3090.5,3090.5,5720.5,121,45.6,gen-1790000035-mcEDhBxJwIyCDAgx88cu,Anthropic,1057,3948,False,0.001995,False
+2026-09-21T14:13:52+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,2442.3,2442.4,3766.7,81,60.4,gen-1790000035-XtOtSdtUcF7wv7G3fV98,Amazon Bedrock,1471,3146,False,0.001386,False
+2026-09-21T14:13:53+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1890.7,1890.8,3873.1,77,38.3,gen-1790000036-Mo3ZuOVLsiRrNBgZ28cS,Anthropic,838,3073,False,0.001329,False
+2026-09-21T14:13:58+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,2656.6,2656.6,5786.3,81,25.6,gen-1790000041-nn8Nt2gxXlQeuks35YCr,Amazon Bedrock,1699,3477,False,0.00138,False
+2026-09-21T14:14:05+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1542.4,1542.4,3804.4,81,35.4,gen-1790000048-6rNUfGtTnuqvj4ZaFOHF,Anthropic,1039,3099,False,0.001386,False
+2026-09-21T14:14:05+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1916.0,1916.0,4550.2,84,31.5,gen-1790000048-ILu5U6b6EJWwmX4qG3NS,Amazon Bedrock,1347,3083,False,0.001449,False
+2026-09-21T14:14:07+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1414.2,1414.2,3730.7,84,35.8,gen-1790000049-4XI8dWdmSoSfxNSQZQdC,Anthropic,883,3001,False,0.001446,False
+2026-09-21T14:14:13+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,2130.6,2130.6,4894.5,120,43.1,gen-1790000056-iAsMnUUhd0CO6vnW66fp,,,,,,False
+2026-09-21T14:14:19+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1456.8,1456.8,3473.7,93,45.6,gen-1790000061-fBLGDMW06acFycGkcihS,,,,,,False
+2026-09-21T14:14:19+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1967.5,1967.6,3620.6,78,46.6,gen-1790000062-IoEsrwyNtb8lFIpUPRzM,Amazon Bedrock,1650,3253,False,0.001335,False
+2026-09-21T14:14:20+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1250.1,1250.1,3393.5,77,35.5,gen-1790000062-Y1pI7wJv42HQcUygWyry,Anthropic,894,3047,False,0.001323,False
+2026-09-21T14:14:27+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1958.7,1958.8,3468.1,69,45.1,gen-1790000070-ywQVfclzrw8NcTdbdewJ,Amazon Bedrock,1642,3060,False,0.001206,False
+2026-09-21T14:14:31+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1577.9,1577.9,4046.5,89,35.6,gen-1790000073-3MUlxjBSwyGA2mLco9OZ,Anthropic,1029,3504,False,0.001503,False
+2026-09-21T14:14:32+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1609.8,1609.8,3456.3,89,47.7,gen-1790000074-2sZlJH0byIcZs48wTyIP,Amazon Bedrock,1248,3074,False,0.001521,False
+2026-09-21T14:14:32+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1109.8,1109.9,3272.4,93,42.5,gen-1790000074-sCJd37ifVO67p86s73ji,Anthropic,745,2928,False,0.001578,False
+2026-09-21T14:14:40+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,2602.1,2602.1,4553.1,120,61.0,gen-1790000083-zv2juRGGBZtPkgepJ6ii,Amazon Bedrock,1376,3898,False,0.001974,False
+2026-09-21T14:14:42+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1412.3,1412.4,3684.6,94,40.9,gen-1790000085-itjXwGbaT87aXOJ7W2J0,Anthropic,1009,3306,False,0.001593,False
+2026-09-21T14:14:43+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1622.1,1622.2,3436.8,71,38.6,gen-1790000085-MEECpluykh0FmznGDqtI,Amazon Bedrock,1461,2947,False,0.00123,False
+2026-09-21T14:14:45+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1560.5,1560.5,3622.5,77,36.9,gen-1790000087-JP7Zf7nXpCdiuFBMFIfC,,,,,,False
+2026-09-21T14:14:52+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1962.6,1962.6,3561.0,74,45.7,gen-1790000095-QA0GJEvSFYbIo6qgGnf3,,,,,,False
+2026-09-21T14:14:52+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1568.2,1568.2,3526.5,81,40.9,gen-1790000095-yzSBgBgEFqRsp5EY8zLu,,,,,,False
+2026-09-21T14:14:53+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1686.9,1686.9,13465.9,84,7.0,gen-1790000096-VLjAM58GEMCXLvSgtB6K,,,,,,False
+2026-09-21T14:14:56+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,941.5,941.6,2883.9,89,45.3,gen-1790000099-1NRDkPYZzBHHVqoTbq2M,Anthropic,737,2753,False,0.001515,False
+2026-09-21T14:15:03+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1614.8,1614.8,4484.2,127,43.9,gen-1790000106-18XxhIEWeXIwegBm9yCH,Amazon Bedrock,1198,4053,False,0.002082,False
+2026-09-21T14:15:03+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1510.6,1510.6,3588.5,93,44.3,gen-1790000106-wxagRC5B7t5TxTey3Qie,,,,,,False
+2026-09-21T14:15:05+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1886.4,1886.4,4936.6,93,30.2,gen-1790000108-6MdwNmfdi4s87TTFviCV,Amazon Bedrock,1417,4472,False,0.001563,False
+2026-09-21T14:15:16+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1247.9,1248.0,3487.4,79,34.8,gen-1790000119-1QzXx3G7fPN5REjWZrC2,,,,,,False
+2026-09-21T14:15:17+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1846.9,1846.9,3702.7,81,43.1,gen-1790000119-l0otjYiYcYbEAcnkh0v7,,,,,,False
+2026-09-21T14:15:18+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1069.5,1069.5,2617.2,69,43.9,gen-1790000121-5IuACsZL5ulrTEF3JTTy,Anthropic,730,2279,False,0.001203,False
+2026-09-21T14:15:20+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1392.2,1392.2,3435.7,84,40.6,gen-1790000123-fEqeFJWNLskzSdL3gJgL,Amazon Bedrock,1185,3216,False,0.001446,False
+2026-09-21T14:15:29+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,2179.7,2179.8,4301.1,84,39.1,gen-1790000132-adBdpBp8RRovrlRHiRGZ,Anthropic,917,3046,False,0.001452,False
+2026-09-21T14:15:31+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,2096.7,2096.7,4801.0,121,44.4,gen-1790000134-8ZK2CUUyZNyrHufVtXLM,Amazon Bedrock,1468,4148,False,0.001995,False
+2026-09-21T14:15:31+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,2023.6,2023.6,5089.7,121,39.1,gen-1790000134-GVpnLTUuMrLU9GENGYkT,Anthropic,1050,4089,False,0.001998,False
+2026-09-21T14:15:39+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,9298.1,9298.2,10612.0,69,51.8,gen-1790000149-xPvYP0lo1ynxC8zriLQv,Amazon Bedrock,1439,2676,False,0.001209,False
+2026-09-21T14:15:46+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1563.9,1563.9,3590.3,80,39.0,gen-1790000149-YE1ObvOxgEF9OpUq67KI,Anthropic,994,3018,False,0.001368,False
+2026-09-21T14:15:46+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1886.9,1886.9,3954.0,92,44.0,gen-1790000149-h5BjSIrbUz3L8COOXe3C,Amazon Bedrock,1313,3361,False,0.001551,False
+2026-09-21T14:15:47+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1379.5,1379.6,4224.7,109,38.0,gen-1790000150-kNz6NKcZ8AwLzETOwYxC,Anthropic,708,3541,False,0.001803,False
+2026-09-21T14:15:59+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1973.9,1974.0,3555.9,93,58.2,gen-1790000162-7hnJXTgieVHdIoZMIK0U,Amazon Bedrock,1638,3212,False,0.001575,False
+2026-09-21T14:16:00+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1154.4,1154.5,3194.0,84,40.7,gen-1790000163-ujD2eXX61UKXP8Ed34by,Anthropic,721,2734,False,0.001446,False
+2026-09-21T14:16:00+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1824.1,1824.1,4245.0,121,49.6,gen-1790000163-rb10k38v15Rh6qqC9Ht2,Amazon Bedrock,1368,3779,False,0.001992,False
+2026-09-21T14:16:01+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,2579.1,2579.1,4305.1,82,46.9,gen-1790000165-CmMVZv6bTuia8qSpCAO8,Anthropic,1074,2799,False,0.001419,False
+2026-09-21T14:16:12+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1809.5,1809.6,3698.1,77,40.2,gen-1790000175-eBYmYTnAsGmjRG3bfNmy,Amazon Bedrock,1139,3018,False,0.001317,False
+2026-09-21T14:16:12+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1934.3,1934.3,3718.3,71,39.2,gen-1790000175-63YXD8yGd6K83Q2n9Wxt,Anthropic,1243,3011,False,0.00123,False
+2026-09-21T14:16:13+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1966.6,1966.6,3863.6,76,39.5,gen-1790000176-vsrOQJPn7sjZE7Dq5azl,Amazon Bedrock,1421,3251,False,0.001317,False
+2026-09-21T14:16:13+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,2449.9,2449.9,4602.6,81,37.2,gen-1790000177-04bhcf6FzwbYeRFtdgGV,Anthropic,1013,2954,False,0.001389,False
+2026-09-21T14:16:27+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,2272.0,2272.1,3982.0,85,49.1,gen-1790000190-lYBckeF1RgiHGOeROhOM,Amazon Bedrock,1730,3421,False,0.001458,False
+2026-09-21T14:16:27+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1549.7,1549.8,3679.5,84,39.0,gen-1790000190-9MCRBWRrozgWsnNxjpI8,Anthropic,977,3102,False,0.001446,False
+2026-09-21T14:16:28+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1906.6,1906.6,4658.2,121,43.6,gen-1790000191-kp8NW7ctwZYpLsUzLIPZ,Amazon Bedrock,1344,4016,False,0.001998,False
+2026-09-21T14:16:28+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,2677.4,2677.4,4743.4,88,42.1,gen-1790000191-ejT2MJXDgcF3yf7qCgar,Anthropic,1977,4003,False,0.001497,False
+2026-09-21T14:16:42+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,3039.7,3039.7,3962.7,71,75.8,gen-1790000205-3HKQhhihLhzy9g0kAJOU,Amazon Bedrock,1549,3185,False,0.001233,False
+2026-09-21T14:16:43+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,2036.2,2036.2,3901.9,71,37.5,gen-1790000206-L14IMnfxNnsVWfoSjDqh,Anthropic,970,2685,False,0.001227,False
+2026-09-21T14:16:43+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,2171.4,2171.4,4325.7,79,36.2,gen-1790000206-O3WU5wmqlh549RXGzHQt,Amazon Bedrock,1303,3426,False,0.00135,False
+2026-09-21T14:16:44+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1776.4,1776.5,3902.5,69,32.0,gen-1790000207-57rWs09Lxloa5eSdoPMV,Anthropic,769,2747,False,0.001206,False
+2026-09-21T14:16:56+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,2071.7,2071.7,4679.3,88,33.4,gen-1790000219-HldUIAk1lUXC4I9rOEdO,Amazon Bedrock,1403,3028,False,0.001503,False
+2026-09-21T14:16:56+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1367.8,1367.8,4235.0,77,26.5,gen-1790000219-GVq5pfWP9V8ThRlT1Hqb,Anthropic,791,2518,False,0.001344,False
+2026-09-21T14:16:57+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,3010.7,3010.7,4046.1,88,84.0,gen-1790000220-xyherOxQNpBs3Ss8utuQ,Amazon Bedrock,1231,3128,False,0.001494,False
+2026-09-21T14:16:57+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,3018.8,3018.8,4575.8,120,76.4,gen-1790000220-INxiudpAFByFBr2J75gJ,Anthropic,907,3852,False,0.001983,False
+2026-09-21T14:17:09+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1323.0,1323.0,2818.2,69,45.5,gen-1790000231-ekyYjf1YaDAQ8F1YzwJU,,,,,,False
+2026-09-21T14:17:09+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1047.4,1047.4,2790.2,71,40.2,gen-1790000231-VgDXA2pRqJm9S9p9tp1X,,,,,,False
+2026-09-21T14:17:10+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1518.8,1518.8,3403.9,81,42.4,gen-1790000232-68UFeFWDALE7DgH07Q1m,,,,,,False
+2026-09-21T14:17:11+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1186.4,1186.4,3201.2,81,39.7,gen-1790000234-xkffP53cktcTw1si3W2f,,,,,,False
+2026-09-21T14:17:19+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,2029.0,2029.0,3894.5,84,44.5,gen-1790000241-a38Wu3snpF2Tla9XFDh7,,,,,,False
+2026-09-21T14:17:20+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1022.4,1022.5,3164.2,93,43.0,gen-1790000242-P02V1ZGsGW3JYXEpR2vx,,,,,,False
+2026-09-21T14:17:20+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1364.6,1364.7,3922.6,121,46.9,gen-1790000243-plVMcCCUbmbo2M4gMpTz,Amazon Bedrock,1218,3751,False,0.001992,False
+2026-09-21T14:17:22+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,839.3,839.4,3384.9,110,42.8,gen-1790000244-d6zt6tzu9XAckZJ6glwA,Anthropic,722,3258,False,0.001827,False
+2026-09-21T14:17:30+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1617.9,1617.9,3239.6,77,46.9,gen-1790000252-ibjxNwukMFNXJyDh3RXN,,,,,,False
+2026-09-21T14:17:30+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1466.3,1466.3,4257.4,126,44.8,gen-1790000253-nFLrwP8RkzAjo5sQp8CI,,,,,,False
+2026-09-21T14:17:32+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1694.5,1694.5,3889.3,78,35.1,gen-1790000254-CBq0OhklLXNJHUmi9Rwd,Amazon Bedrock,1355,3485,False,0.001338,False
+2026-09-21T14:17:32+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1120.3,1120.4,3258.9,81,37.4,gen-1790000255-UNVmdoQ0Y2McgM4WnQDX,Anthropic,736,2795,False,0.001377,False
+2026-09-21T14:17:43+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1712.9,1713.0,4136.3,93,38.0,gen-1790000265-uVpNh1lPoyXZBa1lyKl8,Amazon Bedrock,1395,3455,False,0.001578,False
+2026-09-21T14:17:44+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1648.0,1648.1,4071.4,80,32.6,gen-1790000267-esGIB4gAn2Kn8nmrslfv,Anthropic,1081,3093,False,0.001386,False
+2026-09-21T14:17:44+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1958.4,1958.4,4358.8,121,50.0,gen-1790000267-ww6PmuZ1o5iQMg8wED53,Amazon Bedrock,1347,3958,False,0.001992,False
+2026-09-21T14:17:45+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1860.9,1860.9,6112.6,121,28.2,gen-1790000268-paw2ztmiekztONWKD5B0,Anthropic,1090,4042,False,0.001998,False
+2026-09-21T14:18:00+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,9696.8,9696.8,11396.1,80,46.5,gen-1790000283-bQcWR04jiXQzu8gJb8LK,Amazon Bedrock,8794,10631,False,0.001359,False
+2026-09-21T14:18:01+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1807.3,1807.3,3802.4,85,42.1,gen-1790000283-enibXLOsu0t3YpeZV9tS,Anthropic,1384,3362,False,0.001449,False
+2026-09-21T14:18:01+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,2355.3,2355.3,4338.5,82,40.8,gen-1790000284-IEnWqkEu87X96LOTPINx,Amazon Bedrock,1969,3848,False,0.001398,False
+2026-09-21T14:18:01+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1469.8,1469.8,3177.7,69,39.8,gen-1790000284-LWSUgRrv0Ct55DwOqPa1,Anthropic,1016,2734,False,0.001203,False
+2026-09-21T14:18:19+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,3649.5,3649.5,5927.8,86,37.3,gen-1790000302-9881GRWcKWYBB9VlwrPw,Amazon Bedrock,2884,5096,False,0.00147,False
+2026-09-21T14:18:20+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,2073.0,2073.0,7009.3,84,16.8,gen-1790000303-5yyIxvDYuikKpwro69ko,Anthropic,1116,3188,False,0.00144,False
+2026-09-21T14:18:21+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,3186.1,3186.2,5025.6,121,65.2,gen-1790000304-kl9VPwLpg89TldrHsv8q,Amazon Bedrock,2250,3810,False,0.001995,False
+2026-09-21T14:18:22+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1564.3,1564.3,4974.8,127,36.9,gen-1790000305-s1IYbbC1dILhccvOO0C7,Anthropic,935,4122,False,0.002082,False
+2026-09-21T14:18:34+00:00,or_default,anthropic/claude-sonnet-4.5,True,200,,Amazon Bedrock,1731.1,1731.1,3194.7,74,49.9,gen-1790000316-HAXhbclGIJqmuk6yYOZR,Amazon Bedrock,1232,2932,False,0.001284,False
+2026-09-21T14:18:34+00:00,or_pinned,anthropic/claude-sonnet-4.5,True,200,,Anthropic,1611.9,1612.0,3229.4,71,43.3,gen-1790000316-9iHMC1SgJSd5bFvbfJrx,Anthropic,1015,2948,False,0.001233,False
