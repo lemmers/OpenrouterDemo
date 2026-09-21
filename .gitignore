@@ -1,0 +1,16 @@
+# Secrets
+.env
+.env.*
+*.key
+*sk-or-*
+*sk-ant-*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
