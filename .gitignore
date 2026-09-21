@@ -4,6 +4,7 @@
 *.key
 *sk-or-*
 *sk-ant-*
+benchmark/set-keys.ps1
 
 # Python
 __pycache__/

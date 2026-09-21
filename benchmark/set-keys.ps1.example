@@ -1,0 +1,6 @@
+# Copy this file to set-keys.ps1 (already gitignored) and fill in your keys.
+# Then, in this benchmark folder, run:  . .\set-keys.ps1
+# The leading ". " (dot-source) is required so the variables persist in your shell.
+
+$env:OPENROUTER_API_KEY = "sk-or-v1-REPLACE_ME"
+$env:ANTHROPIC_API_KEY  = "sk-ant-REPLACE_ME"   # optional, enables the direct-to-Anthropic arm
